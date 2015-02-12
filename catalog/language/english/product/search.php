@@ -1,34 +1,34 @@
 <?php
 // Heading
-$_['heading_title']     = 'Search';
-$_['heading_tag']		= 'Tag - ';
+$_['heading_title']     = 'Axtar';
+$_['heading_tag']		= 'Etiket - ';
 
 // Text
-$_['text_search']       = 'Products meeting the search criteria';
-$_['text_keyword']      = 'Keywords';
-$_['text_category']     = 'All Categories';
-$_['text_sub_category'] = 'Search in subcategories';
-$_['text_empty']        = 'There is no product that matches the search criteria.';
-$_['text_quantity']     = 'Qty:';
-$_['text_manufacturer'] = 'Brand:';
-$_['text_model']        = 'Product Code:';
-$_['text_points']       = 'Reward Points:';
-$_['text_price']        = 'Price:';
-$_['text_tax']          = 'Ex Tax:';
+$_['text_search']       = 'Axtarış kriteriyalarına uyğun məhsullar (Products meeting the search criteria)';
+$_['text_keyword']      = 'Açar sözlər';
+$_['text_category']     = 'Bütün kateqoriyalar';
+$_['text_sub_category'] = 'Bütün alt-kateqoriyalarda axtar';
+$_['text_empty']        = 'Axtarış kriteriyalarına uyğun heç bir məhsul tapılmadı.';
+$_['text_quantity']     = 'Say:';
+$_['text_manufacturer'] = 'Marka:';
+$_['text_model']        = 'Məhsul kodu:';
+$_['text_points']       = 'Mükafat balları:';
+$_['text_price']        = 'Qiymət:';
+$_['text_tax']          = 'ƏDV:';
 $_['text_reviews']      = 'Based on %s reviews.';
-$_['text_compare']      = 'Product Compare (%s)';
-$_['text_sort']         = 'Sort By:';
-$_['text_default']      = 'Default';
-$_['text_name_asc']     = 'Name (A - Z)';
-$_['text_name_desc']    = 'Name (Z - A)';
-$_['text_price_asc']    = 'Price (Low &gt; High)';
-$_['text_price_desc']   = 'Price (High &gt; Low)';
-$_['text_rating_asc']   = 'Rating (Lowest)';
-$_['text_rating_desc']  = 'Rating (Highest)';
+$_['text_compare']      = 'Məhsul müqayisəsi (%s)';
+$_['text_sort']         = 'Sırala:';
+$_['text_default']      = 'Susmaya görə';
+$_['text_name_asc']     = 'Adlar (A - Z)';
+$_['text_name_desc']    = 'Adlar (Z - A)';
+$_['text_price_asc']    = 'Qiymət (az &gt; çox)';
+$_['text_price_desc']   = 'Qiymət (çox &gt; az)';
+$_['text_rating_asc']   = 'Reytinq (ən aşağı)';
+$_['text_rating_desc']  = 'Reytinq (ən yuxarı)';
 $_['text_model_asc']    = 'Model (A - Z)';
 $_['text_model_desc']   = 'Model (Z - A)';
-$_['text_limit']        = 'Show:';
+$_['text_limit']        = 'Göstər:';
 
 // Entry
-$_['entry_search']      = 'Search Criteria';
-$_['entry_description'] = 'Search in product descriptions';
+$_['entry_search']      = 'Kriteriyalar üzrə axtar';
+$_['entry_description'] = 'Məhsul təsvirlərində axtar';

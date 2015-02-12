@@ -1,37 +1,37 @@
 <?php
 // Heading
-$_['heading_title']        = 'Address Book';
+$_['heading_title']        = 'Ünvan kitabçası';
 
 // Text
-$_['text_account']         = 'Account';
-$_['text_address_book']    = 'Address Book Entries';
-$_['text_edit_address']    = 'Edit Address';
-$_['text_add']             = 'Your address has been successfully inserted';
-$_['text_edit']            = 'Your address has been successfully updated';
-$_['text_delete']          = 'Your address has been successfully deleted';
-$_['text_empty']           = 'You have no addresses in your account.';
+$_['text_account']         = 'Hesab';
+$_['text_address_book']    = 'Daxil olunmuş ünvan kitabçaları';
+$_['text_edit_address']    = 'Ünvanı redaktə et';
+$_['text_add']             = 'Yeni ünvan əlavə olundu';
+$_['text_edit']            = 'Ünvan yeniləndi';
+$_['text_delete']          = 'Ünvan silindi';
+$_['text_empty']           = 'Hesabınızda heç bir ünvan yoxdur.';
 
 // Entry
-$_['entry_firstname']      = 'First Name';
-$_['entry_lastname']       = 'Last Name';
-$_['entry_company']        = 'Company';
-$_['entry_address_1']      = 'Address 1';
-$_['entry_address_2']      = 'Address 2';
-$_['entry_postcode']       = 'Post Code';
-$_['entry_city']           = 'City';
-$_['entry_country']        = 'Country';
-$_['entry_zone']           = 'Region / State';
-$_['entry_default']        = 'Default Address';
+$_['entry_firstname']      = 'Ad';
+$_['entry_lastname']       = 'Soyad';
+$_['entry_company']        = 'Şirkət';
+$_['entry_address_1']      = 'Ünvan 1';
+$_['entry_address_2']      = 'Ünvan 2';
+$_['entry_postcode']       = 'Poçt indeksi';
+$_['entry_city']           = 'Şəhər';
+$_['entry_country']        = 'Ölkə';
+$_['entry_zone']           = 'Rayon / Ştat';
+$_['entry_default']        = 'Əsas ünvan';
 
 // Error
-$_['error_delete']         = 'Warning: You must have at least one address!';
-$_['error_default']        = 'Warning: You can not delete your default address!';
-$_['error_firstname']      = 'First Name must be between 1 and 32 characters!';
-$_['error_lastname']       = 'Last Name must be between 1 and 32 characters!';
-$_['error_vat']            = 'VAT number is invalid!';
-$_['error_address_1']      = 'Address must be between 3 and 128 characters!';
-$_['error_postcode']       = 'Postcode must be between 2 and 10 characters!';
-$_['error_city']           = 'City must be between 2 and 128 characters!';
-$_['error_country']        = 'Please select a country!';
-$_['error_zone']           = 'Please select a region / state!';
-$_['error_custom_field']   = '%s required!';
+$_['error_delete']         = 'Xəbərdarlıq: Ən azı bir ünvan olmalıdır.';
+$_['error_default']        = 'Xəbərdarlıq: Əsas ünvan silinə bilməz.';
+$_['error_firstname']      = 'Ad 1 ilə 32 arası simvol təşkil etməlidir.';
+$_['error_lastname']       = 'Soyad 1 ilə 32 arası simvol təşkil etməlidir.';
+$_['error_vat']            = 'VAT nömrəsi düzgün deyil.';
+$_['error_address_1']      = 'Ünvan 3 ilə 128 arası simvol təşkil etməlidir.';
+$_['error_postcode']       = 'Poçt indeksi 2 ilə 10 arası simvol təşkil etməlidir.';
+$_['error_city']           = 'Şəhər 3 ilə 128 arası simvol təşkil etməlidir.';
+$_['error_country']        = 'Xahiş olunur ölkəni seçin';
+$_['error_zone']           = 'Xahiş olunur rayon / ştat seçin.';
+$_['error_custom_field']   = '%s tələb olunur';
